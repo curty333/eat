@@ -7,7 +7,10 @@ body {
 }
 
 .navbar-default {
-  background-color: #E31837;
+  background-color: yellow;
+  font-family: guardian-egyptt, georgia, serif;
+  font-weight: 400;
+  color: red;
 }
 
 
@@ -15,7 +18,7 @@ body {
 .navbar-default .navbar-brand {
   font-family: guardian-egyptt, georgia, serif;
   font-weight: 400;
-  color: #000000;
+  color: red;
   font-size: 50px;
 }
 
@@ -42,4 +45,8 @@ body {
 
 .jumbotron {
   background-image: url('https://dl.dropboxusercontent.com/s/z78qdzywnxnf819/kc_chiefs.png?dl=0');
+}
+
+.center {
+  text-align: center;
 }
